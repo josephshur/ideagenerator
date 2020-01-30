@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		340D9CD123E27533003C44CA /* IdeaGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IdeaGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		340D9CD123E27533003C44CA /* Random House Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Random House Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		340D9CD423E27533003C44CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		340D9CD623E27533003C44CA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		340D9CD823E27533003C44CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		340D9CD223E27533003C44CA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				340D9CD123E27533003C44CA /* IdeaGenerator.app */,
+				340D9CD123E27533003C44CA /* Random House Generator.app */,
 				340D9CE723E27534003C44CA /* IdeaGeneratorTests.xctest */,
 				340D9CF223E27535003C44CA /* IdeaGeneratorUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = IdeaGenerator;
 			productName = IdeaGenerator;
-			productReference = 340D9CD123E27533003C44CA /* IdeaGenerator.app */;
+			productReference = 340D9CD123E27533003C44CA /* Random House Generator.app */;
 			productType = "com.apple.product-type.application";
 		};
 		340D9CE623E27534003C44CA /* IdeaGeneratorTests */ = {
@@ -442,7 +442,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.IdeaGenerator;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Random House Generator";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -460,7 +460,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.IdeaGenerator;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Random House Generator";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
